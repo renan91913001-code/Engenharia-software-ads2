@@ -33,3 +33,29 @@ AULA/ATIVIDADE 5<br>
 9. Planejamento<br>
 10. Verdadeiro<br>
 -----------------------------------------------------------------------------------------------------------------------------------
+ AULA/ATIVIDADE 6<BR>
+1 Porque ajuda a entender o sistema depois e facilita mudanças<br>
+2 Manter um ritmo de trabalho, por causa dos prazos<br>
+3 Fazer só o que precisa, sem complicar<br>
+4 Aceitar mudanças no projeto. Exemplo: adicionar uma função nova que o 
+cliente pediu<br>
+5 Porque às vezes é preciso mudar o código sem medo de errar<br>
+6 Em projetos que recebem tarefas o tempo todo<br>
+7 A equipe poderia ficar sem organização e fazer as coisas erradas 8.<br>
+WIP: 2 <br>
+A Fazer: Notificações, Tema escuro<br>
+Fazendo: Login, Nuvem <br>
+Feito: Cadastro, Relatório <br>
+9 Quando os testes não mostram mais erros importantes<br>
+10 Que não dá para confiar só porque funcionou antes<br>
+11 Porque cada teste verifica uma parte diferente<br>
+12 11 = Criança; 12 = Adolescente; 17 = Adolescente; 18 = Adulto; 20 = Adulto.<br>
+13 Usar tecnologias que podem ficar ultrapassadas<br>
+14 Evolutiva adiciona funções; evolução é qualquer melhoria<br>
+15 Para evitar que uma pessoa atrapalhe o trabalho da outra<br>
+16.<br>
+(Corretiva)<br>
+(Adaptativa)<br>
+(Evolutiva)<br>
+(Preventiv)<br>
+------------------------------------------------------------------------------------------------------------------------------------------------
