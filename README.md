@@ -21,3 +21,15 @@ AULA/ATIVIDADE 4 em sala<br>
 2- app de  rifas: Incrimental, pq podemos fazer por partes ele<br>
 3- Sistema de c. de Trafego aereo: espiral pq precisa de muitos testes para a segurança<br>
 -------------------------------------------------------------------------------------------------------------------------------------------
+AULA/ATIVIDADE 5<br>
+1. Em cascata<br>
+2. Implementação e teste unitário<br>
+3. A abordagem iterativa possibilita desenvolver o sistema de forma incremental, permitindo aprendizado durante o desenvolvimento.<br>
+4. Atualização contínua<br>
+5. Falso<br><br>
+6. Pode auxiliar na validação de requisitos do sistema e na identificação de novos requisitos.<br>
+7. Espiral<br>
+8. Não há Questão 8 no enunciado.<br>
+9. Planejamento<br>
+10. Verdadeiro<br>
+11. -----------------------------------------------------------------------------------------------------------------------------------
