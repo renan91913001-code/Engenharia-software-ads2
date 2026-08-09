@@ -49,7 +49,7 @@ Feito: Cadastro, Relatório <br>
 9 Quando os testes não mostram mais erros importantes<br>
 10 Que não dá para confiar só porque funcionou antes<br>
 11 Porque cada teste verifica uma parte diferente<br>
-12 11 = Criança; 12 = Adolescente; 17 = Adolescente; 18 = Adulto; 20 = Adulto.<br>
+12 11 = Criança 12 = Adolescente 17 = Adolescente 18 = Adulto 20 = Adulto.<br>
 13 Usar tecnologias que podem ficar ultrapassadas<br>
 14 Evolutiva adiciona funções; evolução é qualquer melhoria<br>
 15 Para evitar que uma pessoa atrapalhe o trabalho da outra<br>
