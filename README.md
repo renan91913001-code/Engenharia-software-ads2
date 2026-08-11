@@ -59,3 +59,21 @@ Feito: Cadastro, Relatório <br>
 (Evolutiva)<br>
 (Preventiv)<br>
 ------------------------------------------------------------------------------------------------------------------------------------------------
+AULA 7<BR>
+1- Resposta 1-c 2-d 3-c 4-f 5-b 6-e
+2- resposta 
+3- a-segurança x usabilidade  b-usar em 2 etaps  
+4- baixar defeitos e possui usabilidade 
+a5-
+a)o sotfware faz testes de e pode alterar o funcionamento dos motoe
+b)violar a honestidade e reposnsabilidade profissional
+C)COLETAR apenas dados necessarios 
+
+7- 
+a)corrigi falhas
+B)informa problemas de politicas e privacidades
+c)verifica licenças
+d)nao dificulta o calcelamento propositamente
+
+8- F,F,V,V,V,V
+_____________________________________________________________________________________________________________________________________________________
